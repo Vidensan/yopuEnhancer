@@ -5,7 +5,6 @@
 // @description  移除有谱么网页版的15秒试听限制，支持完整播放吉他谱、尤克里里谱及钢琴谱。仅供个人学习交流使用。
 // @author       Vidensan
 // @match        https://yopu.co/view/*
-// @match        https://www.yoopu.co/view/*
 // @grant        none
 // @run-at       document-start
 // @license      MIT
